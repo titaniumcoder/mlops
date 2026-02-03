@@ -1,0 +1,11 @@
+[project]
+name = "mlops"
+version = "0.1.0"
+description = "Playing around ML Ops for experimentation and learning"
+requires-python = ">=3.14"
+dependencies = []
+
+[dependency-groups]
+dev = [
+    "ipykernel>=7.1.0",
+]
